@@ -5,7 +5,7 @@ src="https://cardivo.vercel.app/api?name=Yuzu%20~&description=Hi,%20i%27m%20a%20
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/yuzuhoshinova/count.svg" />
 </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 <br>
 <h1 align="center">リヤン 〜<br>Yuzu Desu!</h1>
