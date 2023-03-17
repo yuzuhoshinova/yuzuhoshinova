@@ -50,5 +50,9 @@ const yuzu = () => {
 <img align="center" fit="fill" alt="GIF" src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
 
 ![YuzuHoshinova's github stats](https://github-readme-stats.vercel.app/api?username=yuzuhoshinova&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzuhoshinova&show_icons=true&layout=compact&theme=tokyonight)
+<p align="center">
+  <a href="https://github.com/yuzuhoshinova">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuzuhoshinova&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight" />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yuzuhoshinova&theme=tokyonight-duo&locale=en)](https://git.io/streak-stats)
+</a>
