@@ -1,5 +1,5 @@
-<img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=Yuzu%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/112942676?s=96&v=4&backgroundColor=%23ecf0f1&github=yuzuhoshinova&pattern=leaf&colorPattern=%23eaeaea"/>
+<h1 align="center">Ｒｅｃｋｌｅｓｓ. 〜<br></h1>
+<img align="center" fit="fill" alt="GIF" src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
 
 <p align="center"> 
   Visitor Count<br>
@@ -47,7 +47,9 @@ const yuzu = () => {
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ### Statistik
-<img align="center" fit="fill" alt="GIF" src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
+<img align="center" height="auto"
+src="https://cardivo.vercel.app/api?name=Yuzu%20~&description=Hi,%20i%27m%20a%20just%20Anime,%20Nice%20to%20meet%20you%20👻&image=https://avatars.githubusercontent.com/u/112942676?s=96&v=4&backgroundColor=%23ecf0f1&github=yuzuhoshinova&pattern=leaf&colorPattern=%23eaeaea"/>
+
 
 ![YuzuHoshinova's github stats](https://github-readme-stats.vercel.app/api?username=yuzuhoshinova&show_icons=true&theme=tokyonight)
 <p align="center">
