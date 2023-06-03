@@ -1,5 +1,5 @@
 <h1 align="center">Ｒｅｃｋｌｅｓｓ. 〜<br></h1>
-<img align="center">fit="fill" alt="GIF" src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
+<h1 align="center"> <img src="https://media0.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=6c09b9526f21c6be8239ff5281e3af2356b1293d644eaa90&rid=giphy.gif&ct=g" />
 
 <p align="center"> 
   Visitor Count<br>
