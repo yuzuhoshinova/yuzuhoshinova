@@ -15,7 +15,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/ywxzyymocca" target="blank"><img src="https://img.shields.io/twitter/follow/ywxzyymocca?logo=twitter&style=for-the-badge" alt="ywxzyymocca" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ywxzyymocca?logo=twitter&style=for-the-badge" alt="ywxzyymocca" /></a> </p>
 
 
 
